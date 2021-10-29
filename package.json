@@ -1,0 +1,39 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "ethers": "^5.5.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-typescript": "^7.15.0",
+    "@testing-library/dom": "^8.10.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.0.2",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react": "^1.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^27.3.1",
+    "babel-preset-react-app": "^10.0.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.3.1",
+    "jest-circus": "^27.3.1",
+    "jest-scss-transform": "^1.0.1",
+    "jest-watch-typeahead": "^1.0.0",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4"
+  }
+}
